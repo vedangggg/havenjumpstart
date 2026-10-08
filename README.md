@@ -1,4 +1,4 @@
-# Cosmic Warp
+# Cosmos Warp
 
 Help the Astronaut reach the Rocketship by jumping over the celestial bodies path!
 
